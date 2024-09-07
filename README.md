@@ -1,1 +1,1 @@
-# GPTCahtBot
+# GPTChatBot
